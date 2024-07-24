@@ -1,0 +1,1 @@
+$ sudo ufw allow from 54.145.85.127 proto tcp to any port 22, 80 ,443
